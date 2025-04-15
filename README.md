@@ -5,6 +5,7 @@ Perfect, thanks for sharing the repo! Here's a complete `README.md` file for you
 ---
 
 markdown
+---
 Visually 🧠🖼️
 
 **Visually** is a powerful web app that uses Hugging Face models to generate and process images through text prompts. Whether you're exploring AI-generated art or testing image-based models, Visually offers a streamlined interface built with **Streamlit** for instant results.
